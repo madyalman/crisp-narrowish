@@ -96,6 +96,10 @@ header#header h5 > a {
 	color: #444444;
 }
 
+nav.pagination > a.older-posts, nav.pagination > a.newer-posts {
+	color: #444444;	
+}
+
 #icons a:link {
   width: 50%;
   font-size: 1.5em;
