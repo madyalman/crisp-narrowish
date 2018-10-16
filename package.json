@@ -1,0 +1,27 @@
+{
+    "name"        : "crisp-narrowish",
+    "description" : "A minimalist, responsive, and open-source theme for Ghost",
+    "version"     : "1.0.0",
+    "engines": {
+        "ghost": ">=2.0.0"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Deniz Yalman"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "ghost-theme"
+    ]
+    "config": {
+        "posts_per_page": 10
+    }
+}
